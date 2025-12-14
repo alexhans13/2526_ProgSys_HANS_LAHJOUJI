@@ -1,4 +1,4 @@
-#define _POSIX_C_SOURCE 199309L // it activate clock_gettime()
+#define _POSIX_C_SOURCE 199309L  //it activate clock_gettime()
 
 #include <unistd.h>
 #include <string.h>
